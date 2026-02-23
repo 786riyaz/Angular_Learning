@@ -1,0 +1,15 @@
+Angular
+🔹 Core Concepts
+Components, Modules, and Templates
+Directives (structural & attribute)
+Data binding (interpolation, property, event, two-way)
+Services and Dependency Injection
+Pipes (built-in and custom)
+Routing and lazy loading
+Lifecycle hooks (ngOnInit, ngOnDestroy, etc.)
+🔹 Advanced
+Reactive forms vs Template-driven forms
+RxJS (Observables, Subjects, operators like map, filter, merge)
+Change detection strategies
+Guards and interceptors
+Angular CLI and environment setup
